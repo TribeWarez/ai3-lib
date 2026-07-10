@@ -10,7 +10,7 @@ checksum = "320119579fcad9c21884f5c4861d16174d0e06250625266f50fe6898340abefa"
 
 [[package]]
 name = "ai3-lib"
-version = "0.9.9"
+version = "0.9.10"
 dependencies = [
  "chrono",
  "flate2",
@@ -297,9 +297,9 @@ checksum = "a89322df9ebe1c1578d689c92318e070967d1042b512afbe49518723f4e6d5cd"
 
 [[package]]
 name = "pot-o-core"
-version = "0.9.9"
+version = "0.9.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6f9b917ee77bae01733094e0f6429583b6e23da03c81ef89e4df512645cdd8da"
+checksum = "c1d606205afd1d2e8b5194908af642575d73aef1c85e554f12453c4b416f162a"
 dependencies = [
  "chrono",
  "hex",
